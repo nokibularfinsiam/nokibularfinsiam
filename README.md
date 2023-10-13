@@ -1,4 +1,4 @@
-![logo](https://github.com/nokibularfinsiam/nokibularfinsiam/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/nokibularfinsiam/nokibularfinsiam/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Nokibul Arfin SIam</h1>
 <h3 align="center">🎓Currently, I'm pursuing my Bachelor's degree in Computer Science at American International University-Bangladesh.</h3>
 <img align="right" width="600" height="350" src="https://github.com/nokibularfinsiam/nokibularfinsiam/blob/main/UI%20Developer.gif"><br
