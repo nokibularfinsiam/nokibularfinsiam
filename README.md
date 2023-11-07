@@ -1,7 +1,5 @@
 ![logo](https://github.com/nokibularfinsiam/nokibularfinsiam/blob/main/jjj.png)
-<h1 align="center" style="color:Black;">Hi 👋, I'm Nokibul Arfin SIam</h1>
-<h3 align="center" style="color:Black;">🎓Currently, I'm pursuing my Bachelor's degree in Computer Science at American International University-Bangladesh.</h3>
-<img align="right" width="450" height="250" src="https://github.com/nokibularfinsiam/nokibularfinsiam/blob/main/UI%20Developer.gif"><br
+<img align="right" width="450" height="250" src="https://github.com/nokibularfinsiam/nokibularfinsiam/blob/main/UI%20Developer.gif"><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nokibularfinsiam&label=Profile%20views&color=0e75b6&style=flat" alt="nokibularfinsiam" /> </p>
 - 📫 reach me **nokibularfinsiam@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
