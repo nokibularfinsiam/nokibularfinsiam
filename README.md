@@ -52,7 +52,7 @@
 ---
 
 ### 🔥 GitHub Streak:
-<p align="center" style="border: 2px solid #e1e4e8; border-radius: 8px; padding: 10px;">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nokibularfinsiam&theme=graywhite" alt="GitHub Streak Stats">
 </p>
 
