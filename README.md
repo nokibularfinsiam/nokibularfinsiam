@@ -53,7 +53,7 @@
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nokibularfinsiam&theme=graywhite" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=nokibularfinsiam&show_icons=true&theme=default" alt="GitHub Stats">
 </p>
 
 ---
