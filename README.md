@@ -51,13 +51,6 @@
 
 ---
 
-### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nokibularfinsiam&show_icons=true&theme=default" alt="GitHub Stats">
-</p>
-
----
-
 ### 🌟 Featured Projects:
 <p align="center">
   <a href="https://github.com/nokibularfinsiam/Education-Assistant-Test-Case-plan" target="_blank">
