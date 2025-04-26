@@ -15,9 +15,9 @@
 ---
 
 ### 💼 About Me:
-- 🔭 Currently working on **App development projects**
 - 🌱 Learning **Manual Testing, Automation Testing**
-- 👯 currently Collaborating on **Unreal Engine Application project**
+- 👯 Worked on **Unreal Engine Application project**
+- - 🔭 Worked on **App development projects**
 - 📫 Reach me at **nokibularfinsiam@gmail.com**
 
 ---
