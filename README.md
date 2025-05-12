@@ -74,4 +74,7 @@
     <a href="https://github.com/nokibularfinsiam/Evershop-Search-Feature-Testing" target="_blank">
     <img src="https://img.shields.io/badge/Project%204-%233498DB.svg?style=for-the-badge&logo=github&logoColor=white" alt="Project 4" />
   </a>
+  <a href="https://github.com/nokibularfinsiam/sauce-demo-wdio-tests.git" target="_blank">
+    <img src="https://img.shields.io/badge/Project%205-%23973B2F.svg?style=for-the-badge&logo=github&logoColor=white" alt="Project 5" />
+  </a>
 </p>
