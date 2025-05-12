@@ -39,7 +39,8 @@
 </p>
 
 #### 🔍 QA & Testing Skills
-- Manual Testing  
+- Manual Testing
+- Automation Testing   
 - API Testing  
 - Test Design  
 - Test Planning  
