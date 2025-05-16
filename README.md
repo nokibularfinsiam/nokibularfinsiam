@@ -39,15 +39,7 @@
 </p>
 
 #### 🔍 QA & Testing Skills
-- Manual Testing
-- Automation Testing   
-- API Testing  
-- Test Design  
-- Test Planning  
-- Regression Testing  
-- Functional Testing  
-- Defect Tracking  
-- Agile & Scrum  
+- **Manual Testing** ・ **Automation Testing** ・ **API Testing**  - **Test Design** ・ **Test Planning** ・ **Regression Testing**  - **Functional Testing** ・ **Defect Reporting**  - **SDLC** ・ **STLC** ・ **Agile** ・ **Scrum**
 
 
 ---
